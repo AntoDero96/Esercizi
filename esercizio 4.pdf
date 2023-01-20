@@ -1,0 +1,11 @@
+Esecuzione di Ping www.google.com [142.250.180.132] con 32 byte di dati:
+Risposta da 142.250.180.132: byte=32 durata=29ms
+Risposta da 142.250.180.132: byte=32 durata=28ms
+Risposta da 142.250.180.132: byte=32 durata=80ms
+Risposta da 142.250.180.132: byte=32 durata=85ms
+
+Statistiche Ping per 142.250.180.132:
+       Pacchetti: Trasmessi = 4, Ricevuti = 4,
+       Persi = 0 (0% persi),
+Tempo approsimativo percorsi andata/ritorno in millisecondi:
+    Minimo = 28ms, Massimo =85ms, Medio = 55ms
